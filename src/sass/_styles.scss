@@ -4,8 +4,14 @@
   box-sizing: border-box;
 }
 
+// rgb(75, 0, 130);
+
 body {
-  background-color: rgb(75, 0, 130);
+  background-image: linear-gradient(
+    to right,
+    #34e89e,
+    #0f3443,
+  );
   padding-top: 40px;
   padding-bottom: 40px;
 }
